@@ -1,4 +1,4 @@
-## Hi there 👋
-- 🌱 Eu estou aprendendo na Alura e na RocketSeat
-- ⚡ Fato aleatorio: Tenho 14 anos
---> Instagram: DaviDlpc1
+## Olá Pessoal 👋
+  # Sou Davi Lucas,Dev de 14 anos
+  # Sei Python,C,C++,Html,Css,JS
+  # Estou aprendendo React,React Native e TypeScript
