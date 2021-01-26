@@ -25,3 +25,13 @@ Sou um desenvolvedor web apaixonado também pelo mundo Back-end.
 - <a href="https://instagram.com/davidlpc1">Instagram</a>
 - <a href="https://twitter.com/ProgramadorDavi">Twitter</a>
 </div>
+
+
+### Statistics
+
+<table>
+  <tr>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlpc1&layout=compact&bg_color=634624&title_color=ffffff&text_color=e5e5e5" /></td>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=davidlpc1&bg_color=634624&title_color=ffffff&text_color=e5e5e5&icon_color=f5f5f5&show_icons=true&include_all_commits=true" /></td>
+  </tr>  
+</table>
