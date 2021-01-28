@@ -6,7 +6,7 @@ Tenho 14 anos e sou interessado por programação (Linhares, ES).
 Sou um desenvolvedor web apaixonado também pelo mundo Back-end.
 
 ## Technologies
-- Front - End com HTML, CSS, JS, Bootstrap, ReactJS
+- Front - End com HTML, CSS, JS, Bootstrap, ReactJS, NextJS, TailwindCSS
 - Mobile com React Native
 - Outras - C e Python
 
