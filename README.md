@@ -8,6 +8,7 @@ Sou um desenvolvedor web apaixonado também pelo mundo Back-end.
 ## Technologies
 - Front - End com HTML, CSS, JS, Bootstrap, ReactJS, NextJS, TailwindCSS
 - Mobile com React Native
+- Backend com NodeJS,Express
 - Outras - C e Python
 
 **What i know and i am studying:**  
