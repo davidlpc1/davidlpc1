@@ -1,17 +1,19 @@
  # <a href="https://www.linkedin.com/in/davi-lucas-93abb71b3/">Davi Lucas</a>
  
+
 ## About Me
-Tenho 14 anos e sou interessado por programação (Linhares, ES). 
-<br>
-Sou um desenvolvedor web apaixonado também pelo mundo Back-end.
+
+I'm 18 years old and passionate about programming, based in Vitoria, ES, Brazil. <be> 
+I’m a web developer passionate about both front-end and back-end development — always curious about how things work under the hood. I believe technology is a powerful tool not only to expand access to education and solve real-world problems, but also to help us understand the universe itself. I’m constantly learning and building with that purpose in mind.
 
 ## Technologies
-- Front - End com HTML, CSS, JS, Bootstrap, ReactJS, NextJS, TailwindCSS
-- Mobile com React Native
-- Backend com NodeJS,Express
-- Outras - C e Python
 
-**What i know and i am studying:**  
+* **Front-End**: HTML, CSS, JavaScript, Bootstrap, ReactJS, NextJS, TailwindCSS
+* **Mobile**: React Native
+* **Back-End**: Node.js, Express
+* **Other**: C, Python
+
+**What I know and I am studying:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -28,7 +30,6 @@ Sou um desenvolvedor web apaixonado também pelo mundo Back-end.
 - <a href="https://www.linkedin.com/in/davi-lucas-93abb71b3/">Linkedin</a>
 - <a href="mailto:davilucasdlcreator@gmail.com">E-mail</a>
 - <a href="https://instagram.com/davidlpc1">Instagram</a>
-- <a href="https://twitter.com/ProgramadorDavi">Twitter</a>
 </div>
 
 
