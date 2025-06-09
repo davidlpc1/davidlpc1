@@ -4,7 +4,7 @@
 ## About Me
 
 I'm 18 years old and passionate about programming, based in Vitoria, ES, Brazil. <be> 
-I’m a web developer passionate about both front-end and back-end development — always curious about how things work under the hood. I believe technology is a powerful tool not only to expand access to education and solve real-world problems, but also to help us understand the universe itself. I’m constantly learning and building with that purpose in mind.
+I’m a web developer passionate about both front-end and back-end development, always curious about how things work under the hood. I believe technology is a powerful tool not only to expand access to education and solve real-world problems, but also to help us understand the universe itself. I’m constantly learning and building with that purpose in mind.
 
 ## Technologies
 
